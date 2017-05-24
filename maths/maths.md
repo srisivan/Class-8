@@ -48,3 +48,29 @@ We are going to look at only a few of these.
    p/q, where p and q should be in the set of intrgers (Z), But q should not
    be equal to 0._ 
 
+	Example : Rational Numbers = 2/3, -3/5, -5/-7, 4/-5, etc.
+
+* Every integer is a rational number. ( Beacause, '5' can also be expressed as
+  '5/1', which is a rational number
+
+* Every fraction is also a rational number. (Beacause, '5/6' can also be
+  expressed in the form of p/q.)
+
+* In a rational number a/b, where a and b are both non-zero,
+	1. If a > 0 and b > 0, that means a and b are positive, then the rational
+	   number a/b > 0, and it is said to be positive. (same signs).
+	
+	2. If a < 0 and b < 0, that means a and b are negative, then the rational
+	   number a/b > 0, and it is said to be positive. (same signs)
+	
+	3. If a < 0 and b > 0, or a > 0 and b < 0 , then the rational number a/b <
+	   0, and it is said to be negative. (opposite signs).
+
+* Equivalent Rational Numbers : If a/b is a rational number and m is a
+  non-zero integer, then equivalent of a/b = (a * m) / (b * m).
+
+* Standard form of a rational number : 
+	1. A rational number a/b is said to be in its _simplest or standard form,_
+	   when a and b do not have a common factor other than 1, and b > 0.
+
+ 
