@@ -1,9 +1,7 @@
-
 ---
 title : To track interesting point taught in maths.
 author : By Srisivan
 ...
-
 
 # Chapter 1 - Rational Numbers
 
@@ -73,4 +71,27 @@ We are going to look at only a few of these.
 	1. A rational number a/b is said to be in its _simplest or standard form,_
 	   when a and b do not have a common factor other than 1, and b > 0.
 
- 
+* To find a equivalent rational number, when the denominator is given, _find
+  the factor that, when multiplied to the denominator of the question, gives
+  the denominator, and multiply the same factor number to the numerator._
+
+	Example : Equivalent of 5 / 12 , when denominator = 60.
+			  
+			  So, 60 / 12 = 5,
+			  therefore, 5 * 5 = 25.
+
+			  Similarly, 5 / 12 = 25 / 60.
+
+* To find whether two given rational numbers are equal or not, you must _cross
+  multiply_ the given numbers. If they are equal, then the original numbers
+  are also equal.
+
+	Example : To find if 2 / 4 and 2  / 4 are equivalent or not.
+			  
+			  Given : 2 / 4 , 2 / 4 
+			  
+			  So, 2 * 4 = 8, and 4 * 2 = 8
+
+			  Therefore, (2 * 4) = (4 * 2), they are equal.
+
+
