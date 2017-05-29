@@ -76,10 +76,8 @@ We are going to look at only a few of these.
   the denominator, and multiply the same factor number to the numerator._
 
 	Example : Equivalent of 5 / 12 , when denominator = 60.
-			  
 			  So, 60 / 12 = 5,
 			  therefore, 5 * 5 = 25.
-
 			  Similarly, 5 / 12 = 25 / 60.
 
 * To find whether two given rational numbers are equal or not, you must _cross
@@ -87,11 +85,8 @@ We are going to look at only a few of these.
   are also equal.
 
 	Example : To find if 2 / 4 and 2  / 4 are equivalent or not.
-			  
 			  Given : 2 / 4 , 2 / 4 
-			  
 			  So, 2 * 4 = 8, and 4 * 2 = 8
-
 			  Therefore, (2 * 4) = (4 * 2), they are equal.
 
 
