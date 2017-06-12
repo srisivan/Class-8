@@ -112,3 +112,7 @@ We are going to look at only a few of these.
 			  
 			  Final Answer = 7 / 3 > 4 / 5.
 
+9. The same principle must be applied to work out asending and descending
+   orders.
+
+
