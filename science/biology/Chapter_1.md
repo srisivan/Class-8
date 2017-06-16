@@ -1,5 +1,5 @@
 # Crop production and management
-
+i
 ## Intro - _How did it all start?_
 
 * Man was an wanderer, he used to hunt for food and did not settle in one
@@ -34,7 +34,6 @@ The product obtained from these crops are called _produce._
 Some common types of crops are listed in the table below.
 
 Cereals |  Wheat, Rice, Barley, Corn, Ragi
-------- | --------------------------------
 Pulses | Gram, Peas, Beans
 Root Crops | Sweet Potato
 Tuber crops | Potato, Tapioca
