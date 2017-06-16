@@ -33,6 +33,8 @@ i
 The product obtained from these crops are called _produce._
 Some common types of crops are listed in the table below.
 
+Type | Examples
+--- | ---
 Cereals |  Wheat, Rice, Barley, Corn, Ragi
 Pulses | Gram, Peas, Beans
 Root Crops | Sweet Potato
