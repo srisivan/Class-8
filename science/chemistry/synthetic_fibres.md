@@ -44,21 +44,7 @@ _The process of combining the monomers to form a polymer is called
 # Synthetic fibres in detail.
 
 ## 1. Rayon
-1. Rayon was the first artificially made fibre. It's raw material is the wood
-   pulp. Even though the raw material was natural, it is reprocessed with
-   chemicals to make a new synthetic fibre.
 
-2. The purified cellulose is extracted and reprocessed under controlled
-   conditions to produce a thick, viscose honey-coloured solution called
-   _**viscose.**_
-
-3. The fibres are made by passing the viscose solution through the fine holes
-   of a showerhead called _**spinneret.**_ They are hardened by passing them
-   into a sulphuric acid bath.They are finally spun into yarn.
-
-## 2. Nylon
-Nylon was introduced shortly after rayon. It is a polymer made from two
-monomers by a process called _**condensation polymerisation.**_
 
 
 
